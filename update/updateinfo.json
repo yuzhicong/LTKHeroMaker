@@ -1,1 +1,1 @@
-{"versionCode":28,"versionName":"6.1.0","url":"https://github.com/yuzhicong/LTKHeroMaker/releases","versionDescription":"修复说明：\n1.技能描述字体/技能名称字体 修复\n2.自定义卡牌颜色（含主公/君主 武将 ）制作效果修复、国战技能名称 半透明问题修复\n3.修复 身份武将经典 UI 版权&编号 绘制位置\n4.武将称号、名字 自动简/繁 转换 增加开关\n5.修复部分设备 预览生成武将图的闪退问题"\n6.修复 武将插图 搜索 部分无画师信息 数据的解析问题}
+{"versionCode":29,"versionName":"6.2.0","url":"https://github.com/yuzhicong/LTKHeroMaker/releases","versionDescription":"修复说明：\n1.修复 技能描述花色字符 绘制位置\n2.修复 身份新UI 技能描述 首字前多一个空格符\n3.修复 身份旧UI神势力 出框编辑 效果\n4.修复 角标一将之魂 绘制\n5.修复 历史记录 体力值数量显示与输入 不一致\n6.修复 身份旧UI武将 高级设置开启时 无版权&画师信息 仍绘制固定格式文字"}
